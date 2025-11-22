@@ -52,4 +52,4 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-}
+} // Sprint 7 финальная версия
